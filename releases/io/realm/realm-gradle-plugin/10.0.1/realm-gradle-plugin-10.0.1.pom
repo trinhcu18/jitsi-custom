@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.realm</groupId>
+    <artifactId>realm-gradle-plugin</artifactId>
+    <version>10.0.1</version>
+    <packaging>jar</packaging>
+
+    <name>Realm Gradle Plugin</name>
+    <description>Gradle Plugin for integrating Realm database in Android projects.</description>
+    <url>https://realm.io</url>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>realm</id>
+            <name>Realm Team</name>
+            <email>support@realm.io</email>
+            <organization>Realm</organization>
+            <organizationUrl>https://realm.io</organizationUrl>
+        </developer>
+    </developers>
+</project>
